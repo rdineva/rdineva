@@ -1,5 +1,5 @@
-# Full-Stack Software Engineer
-# 🎓 Bachelor's Degree in Software Engineering @FMI, Sofia University 
+- Full-Stack Software Engineer 
+- 🎓 Bachelor's Degree in Software Engineering @FMI, Sofia University 
 <!--
 **rdineva/rdineva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
