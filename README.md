@@ -7,7 +7,7 @@
 ## Tech Stack
 - Current: TypeScript, NodeJS, React, AWS, bash
 - Additional professional experience with: ExpressJS, React Native, Python, Django, Angular
-- Exploring: Solidity, NestJS
+- Exploring: Blockchain & Solidity
 
 <p align="center">
     Contact me!
