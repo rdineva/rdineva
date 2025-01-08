@@ -10,7 +10,7 @@
 - 🌱 Exploring: Blockchain & Solidity
 
 <p align="center">
-    Contact me! 💬 
+    You can find me here 💬 
 </p>
 
 
