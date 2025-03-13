@@ -1,12 +1,11 @@
-## About me
-- Full-Stack Software Engineer
-- 5+ years of professional experience
-- 💻 Experience in web development and mobile app development
+### About me
+- Software Engineer with 5+ years of professional experience
+- Web development and mobile app development
 - 🎓 Bachelor's Degree in Software Engineering, Sofia University
 
-## Tech Stack
-- 🎯 Current: TypeScript, NodeJS, React, AWS, bash
-- ➕ Additional professional experience: ExpressJS, React Native, Python, Django, Angular
+### Tech Stack
+- 🎯 Current: TypeScript, NodeJS, ExpressJS, React, AWS, bash, Docker, CI/CD, PostgreSQL, REST & GraphQL
+- ➕ Additional past experience: React Native, Python, Django, Angular
 - 🌱 Exploring: Blockchain & Solidity
 
 <p align="center">
