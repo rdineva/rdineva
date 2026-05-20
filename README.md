@@ -1,4 +1,4 @@
-- Senior Software Engineer with 6+ years of professional experience
+- Senior Software Engineer with 7 years of professional experience
 - Bachelor's Degree in Software Engineering, Sofia University
-- Interests: AI, automation, architectures, backend, web3
-- Main tech stack: TypeScript, NodeJS, ExpressJS, React, Python, bash
+- Interests: AI, automation, architectures, backend
+- Main tech stack: TypeScript, NodeJS, ExpressJS, Python, React, bash
