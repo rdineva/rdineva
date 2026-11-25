@@ -1,4 +1,3 @@
 - Senior Software Engineer with 7+ years of professional experience
-- Bachelor's Degree in Software Engineering, Sofia University
-- AI, backend development, architectures, automation
-- Main tech stack: TypeScript, NodeJS, ExpressJS, Python, React, bash
+- Bachelor's in Software Engineering, Sofia University
+- AI, backend development, system design, architectures, automation
